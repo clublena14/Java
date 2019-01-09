@@ -1,0 +1,10 @@
+[2018-12-21 15:48:27,458][DEBUG](MainClass.java:14) - Logging DEBUG Test
+[2018-12-21 15:48:27,460][INFO ](MainClass.java:15) - Logging INFO Test
+[2018-12-21 15:57:44,679][DEBUG](MainClass.java:14) - Logging DEBUG Test
+[2018-12-21 15:57:44,681][INFO ](MainClass.java:15) - Logging INFO Test
+[2018-12-21 15:58:03,438][DEBUG](MainClass.java:14) - Logging DEBUG Test
+[2018-12-21 15:58:03,439][INFO ](MainClass.java:15) - Logging INFO Test
+[2018-12-21 16:24:49,448][DEBUG](MainClass.java:12) - Logging DEBUG Test
+[2018-12-21 16:24:49,450][INFO ](MainClass.java:13) - Logging INFO Test
+[2018-12-21 16:26:03,146][DEBUG](MainClass.java:12) - Logging DEBUG Test
+[2018-12-21 16:26:03,150][INFO ](MainClass.java:13) - Logging INFO Test
